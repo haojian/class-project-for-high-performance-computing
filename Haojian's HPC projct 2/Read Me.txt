@@ -1,0 +1,7 @@
+Files Checklist: 
+1. Report for HPC Project 2.pdf
+2. code
+	-MPI.Helloworld
+	-MPI.Mandelbrot
+
+PS: More details could be found at report.pdf.
